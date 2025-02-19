@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.14">
   <diagram name="第 1 页" id="orEQxwCemTjO1oXjEmHk">
-    <mxGraphModel dx="2040" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2254" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="BSoqJGOrdcuJqlclITtC-24" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;LLM&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GPT-4o&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="BSoqJGOrdcuJqlclITtC-5" vertex="1">
           <mxGeometry x="19" y="95" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F1RbH0LAto5nmSiUoJRI-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=light-dark(#164673, #ededed);" edge="1" parent="BSoqJGOrdcuJqlclITtC-5">
+        <mxCell id="F1RbH0LAto5nmSiUoJRI-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=light-dark(#164673, #ededed);" parent="BSoqJGOrdcuJqlclITtC-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="64.5" y="20" as="sourcePoint" />
             <mxPoint x="34.5" y="20" as="targetPoint" />
@@ -211,8 +211,20 @@
         <mxCell id="Tn3CIqRwFTc3afVWmgXF-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;color: rgb(44, 44, 54); letter-spacing: 0.08px; text-align: start; white-space: pre-wrap;&quot;&gt;&lt;b&gt;Transition Equation&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0" parent="Tn3CIqRwFTc3afVWmgXF-36" vertex="1">
           <mxGeometry x="-9.236521739130433" y="58.22009936721152" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ng0i1z1qyM0meqj3k4Pg-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=light-dark(#517f31, #2566a8);strokeColor=light-dark(#517f31, #ededed);endWidth=8.045977011494253;endSize=4.83448275862069;" edge="1" parent="Tn3CIqRwFTc3afVWmgXF-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="32.26999999999998" as="sourcePoint" />
+            <mxPoint x="150" y="32.26999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="32.26999999999998" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Tn3CIqRwFTc3afVWmgXF-42" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=3;strokeColor=light-dark(#548235, #32a0ff);shadow=0;dashed=0;shape=mxgraph.ios7.icons.keypad;aspect=fixed;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="650" y="540" width="51.53" height="51.53" as="geometry" />
+        </mxCell>
+        <mxCell id="ng0i1z1qyM0meqj3k4Pg-3" value="&lt;b&gt;Target&lt;/b&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=light-dark(#ffffff, #1f2f1e);strokeColor=light-dark(#517f31, #446e2c);" vertex="1" parent="1">
+          <mxGeometry x="780" y="554.19" width="132" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
