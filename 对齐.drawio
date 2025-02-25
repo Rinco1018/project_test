@@ -184,6 +184,12 @@
         <mxCell id="Yy6tTcQXhc4ILvXz1jSf-230" value="" style="shape=mxgraph.signs.people.walking;html=1;pointerEvents=1;fillColor=#f5f5f5;strokeColor=#666666;verticalLabelPosition=bottom;verticalAlign=top;align=center;aspect=fixed;fontColor=#333333;" vertex="1" parent="Yy6tTcQXhc4ILvXz1jSf-217">
           <mxGeometry x="82.23" y="56" width="18.89" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="Yy6tTcQXhc4ILvXz1jSf-231" value="本地空间" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="142.5" y="448" width="67" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Yy6tTcQXhc4ILvXz1jSf-232" value="远程空间" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="416.5" y="448" width="67" height="15" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
