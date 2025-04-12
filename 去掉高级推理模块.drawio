@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.12">
   <diagram name="第 1 页" id="-kmWdyyDB_Sm5dJqCYHI">
-    <mxGraphModel dx="2254" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2034" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
         <mxCell id="cO8YlsMPNh02ubVImb27-10" value="&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; Object List:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; Action history:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; Dialogue history:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; Human dialogue:&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;align=left;fillColor=light-dark(#e7e6e6, #ededed);" parent="cO8YlsMPNh02ubVImb27-7" vertex="1">
           <mxGeometry x="-5.54909090909091" y="-11.733552916702783" width="138.61272727272728" height="112.21970009534542" as="geometry" />
         </mxCell>
-        <mxCell id="cO8YlsMPNh02ubVImb27-11" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;低级推理模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#548235, #69c195);fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="186" y="468" width="90" height="26" as="geometry" />
+        <mxCell id="cO8YlsMPNh02ubVImb27-11" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;目标预测模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#548235, #69c195);fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="181" y="466" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO8YlsMPNh02ubVImb27-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=light-dark(#446230, #28ab6a);curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -98,8 +98,8 @@
         <mxCell id="cO8YlsMPNh02ubVImb27-42" value="&lt;b&gt;转移方程&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="597.73" y="650" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cO8YlsMPNh02ubVImb27-43" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span&gt;迭代修正&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#7f6105, #69c195);fontStyle=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="595" y="468" width="66" height="26" as="geometry" />
+        <mxCell id="cO8YlsMPNh02ubVImb27-43" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span&gt;动态迭代&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#7f6105, #69c195);fontStyle=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="593" y="466" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cO8YlsMPNh02ubVImb27-44" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=light-dark(#b67a58, #32a0ff);shadow=0;dashed=0;shape=mxgraph.ios7.icons.volume;pointerEvents=1;fillColor=light-dark(#fff2cc, #ededed);aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="609.73" y="503.31" width="36" height="36" as="geometry" />
@@ -120,7 +120,7 @@
             <mxPoint x="680.86" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cO8YlsMPNh02ubVImb27-63" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;预测目标&lt;/font&gt;&lt;/b&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="cO8YlsMPNh02ubVImb27-63" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;行为目标&lt;/font&gt;&lt;/b&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="683" y="627.42" width="57" height="27.95" as="geometry" />
         </mxCell>
       </root>
