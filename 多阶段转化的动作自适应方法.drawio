@@ -64,6 +64,9 @@
             <mxPoint x="123.00000000000006" y="52.309999999999945" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5e16mKItXA9mVnA2ni1b-50" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;行为目标提示（Prompt）&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5e16mKItXA9mVnA2ni1b-36" vertex="1">
+          <mxGeometry x="12" y="151" width="153" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="5e16mKItXA9mVnA2ni1b-37" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=light-dark(#548235, #ededed);" parent="1" vertex="1">
           <mxGeometry x="60" y="420" width="760" height="200" as="geometry" />
         </mxCell>
@@ -80,10 +83,7 @@
           <mxGeometry x="708" y="760" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5e16mKItXA9mVnA2ni1b-49" value="" style="group;align=left;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="90" y="240" width="115.5" height="145" as="geometry" />
-        </mxCell>
-        <mxCell id="5e16mKItXA9mVnA2ni1b-50" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;目标提示（Prompt）&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5e16mKItXA9mVnA2ni1b-49" vertex="1">
-          <mxGeometry x="-15" y="110" width="130" height="30" as="geometry" />
+          <mxGeometry x="90" y="240" width="127" height="145" as="geometry" />
         </mxCell>
         <mxCell id="5e16mKItXA9mVnA2ni1b-51" value="&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; User Intention:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; Target:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; Object List:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; ...&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;align=left;fillColor=light-dark(#e7e6e6, #ededed);" parent="5e16mKItXA9mVnA2ni1b-49" vertex="1">
           <mxGeometry x="-10" y="17" width="122" height="93" as="geometry" />
