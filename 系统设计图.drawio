@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.12">
   <diagram name="第 1 页" id="dgRIYfOYXSiigeoHj6j_">
-    <mxGraphModel dx="1030" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="897" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,37 +10,37 @@
         <mxCell id="qxzFnnzq1e7h_CvmnNy5-62" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="1020" y="490" width="770" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;大&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;语&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;言&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;模&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;型&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;驱&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;动&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;horizontal=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-7" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;大&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;语&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;言&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;模&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;型&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;驱&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;动&lt;/font&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;horizontal=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1385" y="600.0000000000001" width="40" height="211.31" as="geometry" />
         </mxCell>
         <mxCell id="qxzFnnzq1e7h_CvmnNy5-29" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeWidth=2;dashed=1;dashPattern=8 8;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1022.5" y="190" width="770" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-30" value="&lt;b&gt;&lt;font face=&quot;黑体&quot; style=&quot;font-size: 14px;&quot;&gt;用户交互页面&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-30" value="&lt;b&gt;&lt;font face=&quot;黑体&quot; style=&quot;font-size: 16px;&quot;&gt;用户交互页面&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1350" y="190" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-31" value="&lt;font face=&quot;黑体&quot;&gt;头戴显示器交互界面&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1072.5" y="220" width="151" height="40" as="geometry" />
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-31" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;头戴显示器交互界面&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1059.5" y="220" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-32" value="&lt;font face=&quot;黑体&quot;&gt;用户虚拟化身显示&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1332" y="220" width="151" height="40" as="geometry" />
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-32" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;用户虚拟化身显示&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="220" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-33" value="&lt;font face=&quot;黑体&quot;&gt;用户对话输入麦克风&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1592.5" y="220" width="151" height="40" as="geometry" />
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-33" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;用户对话输入麦克风&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1592.5" y="220" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxzFnnzq1e7h_CvmnNy5-53" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="1022.5" y="290" width="770" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-54" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 14px;&quot;&gt;场景分割与标注框提取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-54" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 16px;&quot;&gt;场景分割与标注框提取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1270" y="320" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-55" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;场景理解模块&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-55" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;场景理解模块&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1345" y="290" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-56" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 14px;&quot;&gt;用户信息整合&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-56" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 16px;&quot;&gt;用户信息整合&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1270" y="370" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-57" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;场景自然语言描述整合&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-57" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;场景自然语言描述整合&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1270" y="420" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxzFnnzq1e7h_CvmnNy5-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;width=11;endSize=3.475;endWidth=10.5;exitX=0.785;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" parent="1" source="qxzFnnzq1e7h_CvmnNy5-62" target="qxzFnnzq1e7h_CvmnNy5-77" edge="1">
@@ -49,22 +49,22 @@
             <mxPoint x="1624.25" y="636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-60" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;本地空间信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;本地空间信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1059.5" y="516" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-61" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 14px;&quot;&gt;远程空间信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-61" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 16px;&quot;&gt;远程空间信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1489.5" y="516" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-63" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;黑体&quot;&gt;空间信息提示&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-63" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;空间信息提示&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1347.5" y="490" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-64" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;语音输入解析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-64" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;语音输入解析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1059.5" y="630" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-65" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;意图识别与行为目标预测&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-65" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;意图识别与行为目标预测&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1059.5" y="690" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-66" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;推断下一步交互位置&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-66" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;推断下一步交互位置&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1059.5" y="750" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxzFnnzq1e7h_CvmnNy5-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="qxzFnnzq1e7h_CvmnNy5-64" target="qxzFnnzq1e7h_CvmnNy5-65" edge="1">
@@ -79,19 +79,19 @@
             <mxPoint x="1310" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-70" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;黑体&quot;&gt;行为目标预测模块&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1134.5" y="600" width="120" height="30" as="geometry" />
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-70" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;行为目标预测模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1121.75" y="600" width="145.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxzFnnzq1e7h_CvmnNy5-71" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="1450" y="600" width="340" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-72" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 14px;&quot;&gt;动作序列生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-72" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 16px;&quot;&gt;动作序列生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1489.5" y="630" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-73" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;人工势场路径规划&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-73" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;人工势场路径规划&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1489.5" y="690" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-74" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;动画库动作匹配&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-74" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;动画库动作匹配&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1489.5" y="750" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qxzFnnzq1e7h_CvmnNy5-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="qxzFnnzq1e7h_CvmnNy5-72" target="qxzFnnzq1e7h_CvmnNy5-73" edge="1">
@@ -136,19 +136,19 @@
         <mxCell id="qxzFnnzq1e7h_CvmnNy5-98" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeWidth=2;dashed=1;dashPattern=8 8;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1020" y="830" width="770" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-99" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;用户数据（基本信息、状态）&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-99" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;用户数据（基本信息、状态）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1046" y="840" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-100" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;对话记录&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-100" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;对话记录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1046" y="890" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-101" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;场景数据&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-101" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;场景数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1492.5" y="840" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-102" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;动画库动作数据&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-102" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;动画库动作数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1492.5" y="890" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qxzFnnzq1e7h_CvmnNy5-103" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;黑体&quot;&gt;数据存储&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="qxzFnnzq1e7h_CvmnNy5-103" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;黑体&quot;&gt;数据存储&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1353" y="830" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qxzFnnzq1e7h_CvmnNy5-104" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;展&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;示&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;层&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
