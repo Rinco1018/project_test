@@ -1,97 +1,101 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.12">
   <diagram name="第 1 页" id="Rp2rsCXFwbFjOdIYdiTL">
-    <mxGraphModel dx="1207" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-2" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="28" y="222" width="376" height="200" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-2" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="123" y="228" width="306" height="192" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;第三章：基于大语言模型分层推理与动态迭代的行为目标预测方法&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="100" y="232" width="232" height="30" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;第三章：基于大语言模型分层推理与动态迭代的行为目标预测方法&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="161" y="238" width="232" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;意图推理模块&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="91" y="282" width="250" height="32.63" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;意图推理模块&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="152" y="288" width="250" height="32.63" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;目标预测模块&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="91" y="322" width="250" height="32.63" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;目标预测模块&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="152" y="328" width="250" height="32.63" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;迭代修正模块&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="91" y="362" width="250" height="32.63" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;迭代修正模块&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="152" y="368" width="250" height="32.63" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=1.005;exitY=0.162;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="v99l4wf4AxJnUkTAbzBe-9" target="v99l4wf4AxJnUkTAbzBe-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="408" y="478" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-9" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="122" y="438" width="308" height="188" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-9" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="28" y="432" width="376" height="200" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;第四章：基于大语言模型多阶段转换与自回归修正的动作自适应方法&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="158" y="445" width="238" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;第四章：基于大语言模型多阶段转换与自回归修正的动作自适应方法&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="97" y="439" width="238" height="30" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行为映射阶段&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="152" y="498" width="250" height="32.63" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行为映射阶段&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="91" y="492" width="250" height="32.63" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;任务分解阶段&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="152" y="538" width="250" height="32.63" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;任务分解阶段&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="91" y="532" width="250" height="32.63" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;动作映射阶段&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="152" y="578" width="250" height="32.63" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;动作映射阶段&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="91" y="572" width="250" height="32.63" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-14" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="440" y="231" width="310" height="397" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-14" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="424" y="222" width="376" height="410" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-15" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;第五章：&lt;/span&gt;&lt;/b&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;line-height: 120%;&quot; lang=&quot;EN-US&quot;&gt;AR异构空间&lt;/span&gt;&lt;span style=&quot;line-height: 120%;&quot;&gt;远程协作原型系统设计与实现&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="492.5" y="235" width="199" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-15" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;第五章：&lt;/span&gt;&lt;/b&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;line-height: 120%;&quot; lang=&quot;EN-US&quot;&gt;AR异构空间&lt;/span&gt;&lt;span style=&quot;line-height: 120%;&quot;&gt;远程协作原型系统设计与实现&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="459" y="222" width="323" height="30" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;场景理解模块&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="469" y="288" width="250" height="32.63" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;场景理解模块&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="484" y="268" width="250" height="32.63" as="geometry" />
-        </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="v99l4wf4AxJnUkTAbzBe-17" target="v99l4wf4AxJnUkTAbzBe-19" edge="1">
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="v99l4wf4AxJnUkTAbzBe-17" target="v99l4wf4AxJnUkTAbzBe-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行为目标预测模块&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="484" y="328" width="250" height="32.63" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;行为目标预测模块&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="469" y="352" width="250" height="32.63" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-18" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="484" y="408" width="250" height="130" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-18" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;gradientColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="469" y="411" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;虚拟化身控制模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="504" y="408" width="210" height="30" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;虚拟化身控制模块&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="489" y="411" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;动作序列生成&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="537" y="448" width="140" height="32.63" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;动作序列生成&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="522" y="451" width="140" height="32.63" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;动作序列应用&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="537" y="489" width="140" height="32.63" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;动作序列应用&lt;/font&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="522" y="492" width="140" height="32.63" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6.4;endSize=3.4159999999999995;endWidth=8.959999999999999;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6.4;endSize=3.4159999999999995;endWidth=8.959999999999999;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="608.66" y="542" as="sourcePoint" />
-            <mxPoint x="608.86" y="575.6800000000001" as="targetPoint" />
+            <mxPoint x="593.66" y="545" as="sourcePoint" />
+            <mxPoint x="593.86" y="578.6800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="v99l4wf4AxJnUkTAbzBe-16" target="v99l4wf4AxJnUkTAbzBe-17" edge="1">
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="v99l4wf4AxJnUkTAbzBe-16" target="v99l4wf4AxJnUkTAbzBe-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="619" y="371" as="sourcePoint" />
-            <mxPoint x="619" y="418" as="targetPoint" />
+            <mxPoint x="604" y="374" as="sourcePoint" />
+            <mxPoint x="604" y="421" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="v99l4wf4AxJnUkTAbzBe-2" target="v99l4wf4AxJnUkTAbzBe-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="v99l4wf4AxJnUkTAbzBe-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;虚拟化身交互行为&lt;/span&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="467" y="581" width="250" height="32.63" as="geometry" />
         </mxCell>
-        <mxCell id="v99l4wf4AxJnUkTAbzBe-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;虚拟化身交互行为&lt;/span&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="482" y="578" width="250" height="32.63" as="geometry" />
+        <mxCell id="ZX3RhRfQPtiYkJysBPXW-1" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;第六章：结论与展望&lt;/b&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="120" y="650" width="630" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ZX3RhRfQPtiYkJysBPXW-1" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;第六章：结论与展望&lt;/b&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="28" y="650" width="770" height="38" as="geometry" />
+        <mxCell id="ZX3RhRfQPtiYkJysBPXW-3" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;第二章：相关理论与技术&lt;/b&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="120" y="169" width="630" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ZX3RhRfQPtiYkJysBPXW-3" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;第二章：相关理论与技术&lt;/b&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="28" y="169" width="770" height="38" as="geometry" />
+        <mxCell id="ZX3RhRfQPtiYkJysBPXW-4" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;第一章：绪论&lt;/b&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="120" y="116" width="630" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ZX3RhRfQPtiYkJysBPXW-4" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;第一章：绪论&lt;/b&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="28" y="116" width="770" height="38" as="geometry" />
+        <mxCell id="LXKdXX4DEX2jBSqxD1To-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.741;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="v99l4wf4AxJnUkTAbzBe-2" target="v99l4wf4AxJnUkTAbzBe-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="386" y="511" as="sourcePoint" />
+            <mxPoint x="436" y="461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXKdXX4DEX2jBSqxD1To-3" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="v99l4wf4AxJnUkTAbzBe-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="467" as="sourcePoint" />
+            <mxPoint x="469" y="467.03" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
